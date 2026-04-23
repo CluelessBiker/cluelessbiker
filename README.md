@@ -1,9 +1,9 @@
-## Lauren-Nicole 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF2D5E&width=435&lines=React/Next+Engineer+and+Student+Mentor)](https://git.io/typing-svg)
+## Lauren-Nicole
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EF2D5E&width=435&lines=ReactJS/Next.js+Engineer)](https://git.io/typing-svg)
 
 Accident-prone biker. Former chef. Avid fantasy reader. Uncouth. Clumsy. OCD-inclined.
 
-My favorite things - *in no particular order* - are:
+My favorite things -*in no particular order*- are:
 - eating like my life depends on it
 - the two demons masquerading as dogs
 - my dirt-covered motorbike
