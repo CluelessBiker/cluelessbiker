@@ -36,6 +36,8 @@ My favorite things - *in no particular order* - are:
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=Yarn&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=Node&logoColor=white&style=flat)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=ESLint&logoColor=white&style=flat)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=Cursor&logoColor=white&style=flat)
+![CoPilot](https://img.shields.io/badge/-CoPilot-000000?logo=githubcopilot&logoColor=white&style=flat)
 #### ✨ADDITIONAL✨ :
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=flat)
 ![inDesign](https://img.shields.io/badge/-inDesign-FF3366?logo=adobeindesign&logoColor=white&style=flat)
